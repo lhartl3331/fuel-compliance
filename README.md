@@ -6,9 +6,11 @@ Runs on Windows 10 and 11. Installs just for you, with no administrator needed. 
 
 ## Download
 
-**[⬇ Download Fuel Compliance (Windows)](https://github.com/lhartl3331/fuel-compliance/releases/download/v1.0.0/FuelCompliance-TestKit.zip)**
+**[⬇ Download Fuel Compliance for Windows](https://github.com/lhartl3331/fuel-compliance/releases/download/v1.0.0/FuelComplianceSetup-1.0.0.exe)**
 
-Unzip it, double-click `FuelComplianceSetup.exe`, and follow the setup wizard. The README inside the zip walks you through each step. You need the license key from your welcome email.
+When the download finishes, click **Open file**. Fuel Compliance installs and opens the setup wizard. Paste the license key from your welcome email when it asks.
+
+The installer is not code-signed yet, so Windows may warn you first. If you see "Windows protected your PC", click **More info**, then **Run anyway**.
 
 ## Support
 
